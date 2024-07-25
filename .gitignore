@@ -1,0 +1,1 @@
+"#ignore compiled files *.class *.jar *.war #ignored build directories /target/ /build/ #ignore IdE files .idea/ *.im/ .vscode/" 
